@@ -1,3 +1,6 @@
+//Name : Ninad Phatak
+//Batch : ENTC A3
+//PRN : 24070123065
 #include <iostream>
 using namespace std;
 int main() {
